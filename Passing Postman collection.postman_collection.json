@@ -7,7 +7,7 @@
 	},
 	"item": [
 		{
-			"name": "GET with URL Params",
+			"name": "GET new with URL Params",
 			"event": [
 				{
 					"listen": "test",
